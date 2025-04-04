@@ -11,8 +11,9 @@ tu mas krasne testovacie repo na git s par ulohami:
 7. commitni zmeny
 8. pozri si log a skopiruj text posledneho commitu do ha-haa.txt
 9. commitni zmeny
-10. vrat sa naspat na main branchu
-11. pullni do mainu svoju novu branchu
-12. pushni main branchu na github
+10. pushni svoju branchu na github
+11. vrat sa naspat na main branchu
+12. pullni do mainu svoju novu branchu
+13. pushni main branchu na github
 
 aby si sa necitila sama, tak v tom folderi kde si to naclonujes ta bude cakat pomocnicek :D
