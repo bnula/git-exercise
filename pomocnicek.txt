@@ -1,9 +1,10 @@
 commandy co potrebujes pouzit:
-git clone (to si vies skopirovat z github repa)
-git checkout "meno branche"
+git clone "link" (ten si vies skopirovat z github repa z toho krasneho zeleneho buttonu na ktoromje napisane "<> Code")
+git checkout -b "meno-branche"
+git checkout "meno-branche"
 git add -A
 git status
 git commit -m "comment"
-git pull "meno branche"
-git push -u origin "meno branche"
+git pull "meno-branche"
+git push -u origin "meno-branche"
 git log
