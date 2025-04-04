@@ -1,0 +1,8 @@
+commandy co potrebujes pouzit:
+git clone (to si vies skopirovat z github repa)
+git checkout "meno branche"
+git add -A
+git status
+git commit -m "comment"
+git pull "meno branche"
+git push -u origin "meno branche"
