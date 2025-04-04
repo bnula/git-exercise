@@ -6,3 +6,4 @@ git status
 git commit -m "comment"
 git pull "meno branche"
 git push -u origin "meno branche"
+git log
