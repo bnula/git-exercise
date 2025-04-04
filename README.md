@@ -14,3 +14,5 @@ tu mas krasne testovacie repo na git s par ulohami:
 10. vrat sa naspat na main branchu
 11. pullni do mainu svoju novu branchu
 12. pushni main branchu na github
+
+aby si sa necitila sama, tak v tom folderi kde si to naclonujes ta bude cakat pomocnicek :D
