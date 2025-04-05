@@ -1,8 +1,18 @@
 commandy co potrebujes pouzit:
+
+vytvorit si folder a vliezt do neho:
+pwd
+cd ..
+cd meno-foldra
+dir
+mkdir
+
+
+git:
 git clone "link" (ten si vies skopirovat z github repa z toho krasneho zeleneho buttonu na ktoromje napisane "<> Code")
 git checkout -b "meno-branche"
 git checkout "meno-branche"
-git add -A
+git add -A / git add . (robia to iste)
 git status
 git commit -m "comment"
 git pull "meno-branche"
