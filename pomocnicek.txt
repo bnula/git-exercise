@@ -1,12 +1,13 @@
 commandy co potrebujes pouzit:
 
-vytvorit si folder a vliezt do neho:
+vytvorit si folder, vliezt do neho, tieto veci:
 pwd
 cd ..
 cd "meno-foldra"
 dir
 mkdir "meno-foldra"
 touch "meno-filu"
+"meno-filu"
 
 
 git:
@@ -15,6 +16,7 @@ git checkout -b "meno-branche"
 git checkout "meno-branche"
 git add -A / git add . (robia to iste)
 git status
+git diff
 git commit -m "comment"
 git pull "meno-branche"
 git push -u origin "meno-branche"
